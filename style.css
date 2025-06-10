@@ -1,0 +1,43 @@
+.about-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+  padding: 2rem;
+  background-color: rgb(253, 252, 252);
+  color: green;
+}
+.about-us {
+  background-color: white;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+  flex: 1 1 300px;
+  max-width: 350px;
+  color: green;
+}
+.section-header {
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  color: green;
+}
+.row{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+  padding: 2rem;
+  color: green;
+}
+.container{
+  padding: 2rem;
+  color: green;
+}
+.services{
+  color: green
+}
+.home{
+  padding: 2rem;
+  color: white;
+}
